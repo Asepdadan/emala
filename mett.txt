@@ -1,0 +1,179 @@
+
+Layanan Pengguna SPSE
+buat management permohonan user id 
+jadi mereka yang minta user dan id password LPSE 
+ngga harus bertemu langsung ke LPSE 
+tinggal isi form yang sudah di siapin 
+trus upload surat tugasnya 
+
+ngerti yang itu ya 
+form 1 
+form yang ini Layanan Pengunjung LPSE
+yang tadi kira2 ada gambaran ? 
+jadi misal.. 
+betul 
+kedengeran 
+user id dikirim manual oleh pegawai lpse manual ke email si yang mohon 
+yang pemohon maksud gw 
+bener 
+nanti user id nya dibuatin disini 
+contoh 
+lpse.tangerangkab.go.id/eproc
+nanti pegawai lpse itu nginput sesuai data yang di input oleh pemohon 
+user id yang disitu untuk pencatatan 
+pencatatan permohonan 
+saat ini untuk itu dulu.. 
+betul 
+yang Verification Code pake punya google aja ya 
+biar gampang 
+im not a robot 
+betul 
+tapi nanti tahunnya by default tahun berjalan ya 
+misalkan skarang tahun 2017 munculnya tahun 2017
+betul 
+formnya rapihin ya 
+biar ngga nyolok mata 
+galau warna nya 
+biar enak di liat lah
+http://kdr.jumanta.info/
+clear
+http://kdr.jumanta.info/
+Layanan Pengunjung LPSE
+FORMULIR ISIAN BUKU TAMU LPSE
+from yg kedua ini
+untuk pencatatan orang yang dtang langsung ke kantor LPSE
+buat pengunjung 
+buku tamu online bep 
+ada gambaran kira2 
+jadi dari buku tamu ini 
+akan dapat rekapan 
+kira2 setiap bulan brapa orang sih yang bertamu ke kantor LPSE 
+boleh.. 
+itu mah kreasi aja.. 
+sementara pengen tau tamu ke kantor itu ada berapa orang 
+itu dari mana aja
+apa dari penyedia
+apa dari PPK 
+apa dari pokja 
+atau dari pejabat pengadaan 
+atau dari SKPD lain 
+boleh.. 
+metode penginputan dan metode isiannya diskusiin aja ya.. gimana bagusnya 
+ga harus sama persis dengan yang itu
+ada gambaran y a
+ya*
+si aldi mah emang ga pernah bener da
+bentar sebelahnya 
+yang buku tamu aman ya 
+oke.. lanjut 
+suaranya ga gw aktifin.. 
+nanti kalau itu sambil jalan
+kurang2 dan lain2 kan bisa sambil jalan 
+yang penting tujuan akhirnya kita tau 
+oke2 baik pa
+Johani Fauzi
+manggil pak tua banget gw
+gw sikat lu 
+asem 
+kapan2 gathring 
+eh lanjut
+kalau gada makanan ga mau 
+lanjut ya
+yang ini 
+Layanan Pelatihan SPSE
+oke.. 
+gini 
+gw jelasin dulu 
+di lpse itu 
+suka buka pelatihan2 setiap minggu 
+biasanya 2 kali atau 3 kali dalam seminggu terserah lpse nya 
+mau buka kelas berapa kali 
+nah pesertanya dari 1. Rekanan
+2. Pejabat Pengadaan 
+3. PPK
+4. Auditor 
+5. Pokja ULP 
+bener 
+itu aja kebutuhannya 
+nanti kalau misalkan ada optional lain 
+bisa di tambah 
+nah di backend nanti nentuin 
+ada gambaran ? 
+tinggal mikirin backend nya 
+kira2 ada gambaran ga 
+si super admin bikinkan gini 
+http://kdr.jumanta.info/
+login 
+superadmin 
+password : super4dmin 
+http://kdr.jumanta.info/custom-page
+itu buka 
+iya itu pagenya di hiden.. jadi kalau misalkan ada permintan namanya buka e-mala bisa langsung di costumize dari situ.. 
+jadi ga langsung ke hard coding
+riweuh 
+ini lagi pada dimana ? 
+jauh 
+eh tadi yang di sini 
+http://e-mala.lpse.lomboktengahkab.go.id/admin/frontend/web/index.php?r=site/buatrkn
+buka deh 
+dia kan pilih tanggal yang available 
+itu tanggal muncul sesuai di assign oleh si admin ya
+jadi kelas ini available tanggal brapa 
+quotanya brapa
+di tentuin juga 
+karna bisa bisa membludak 
+pesertanya 
+bener 
+munculin quota kelas ini 
+brapa orang 
+yang sudah daftar berapa orang 
+emang dia mah gila 
+udah biarin aja 
+yang penting sehat dia 
+suruh punya pacar 
+cariin kasian 
+jangan sebelah kamar 
+paling sebelah kamar nya si agun
+da.. 
+ada gambaran ya 
+sikat.. 
+lanjut ya 
+dikit lagi 
+2 menu lagi
+Survey Kepuasan
+baca grafik nya ngerti ga 
+hahhaa
+yang itu mah samain aja.. 
+tampilannya bebas lah.. 
+kreasi aja 
+ada gambaran ya da
+pertanyaan umum ga usah 
+itu ngabisin tempat aja 
+langsung ke keluhan pengguna
+yang tadi ada gambaran ya.. 
+kita lanjut ke keluhan pengguna 
+nama pelapor... 
+kalau dia sudah pernah ngisi buku tamu
+ambil datanya dari sana 
+kalau belum ada suruh nginput sendiri disitu 
+iya.. 
+isi laporan biasanya dia curhat permasalahan yang sedang di hadapi 
+tambahin aja disitu bisa attachment 
+sama tambahin verifikasi biar ga kena spam
+https://www.google.com/recaptcha/intro/android.html
+ini.. 
+biar ga di sikat spam 
+udah ada gambaran ya da.. 
+tentang kami.. 
+lupa kan 
+itu mah bebas deh .. 
+isinya sama.. 
+atau mau enak bisa di edit dari si admin 
+kalau ribed gpp samain aja.. 
+da.. 
+pulang udah malam
+itu kira2 ada gambran 
+nomorku 
+087881146327
+iya
+cimahi digoyang
